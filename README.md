@@ -27,7 +27,7 @@ The primary objectives of this project include:
 
 To run the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/ML-Perceptron-Project.git`
+1. Clone the repository: `git clone https://github.com/ThecoderPinar/ML-Perceptron-Project.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Execute the main script: `Perceptron_Algorithm_Implementation.ipynb`
 
